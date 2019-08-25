@@ -1,0 +1,39 @@
+body{
+ color: navy;
+}
+
+nav      { font-weight: bold;
+           word-spacing: 1em;
+           font-size: 1.25em; }
+nav a    { text-decoration: none; }
+
+
+span{background-color:blue; color:white;}
+
+
+p {
+  text-align: center;
+  color: red;
+  background-color: lightsteelblue;
+}
+
+h1
+{
+  font-size: 3em;
+}
+
+.myClass
+{
+  color: yellow;
+  background-color: navy;
+}
+
+#myID
+{
+  font-size: 0.75em;
+  color: green;
+}
+
+#container{margin-left: auto;
+           margin-right: auto;
+           width: 90%; }
